@@ -1,7 +1,7 @@
 # 2D Aim Trainer
 
 A simple 2D aim trainer made using vanilla Javascript, HTML and CSS.
-Play [here]().
+Play [here](https://arnav-247.github.io/AimTrainer/).
 
 
 
